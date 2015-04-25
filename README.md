@@ -30,5 +30,5 @@ included in this repo (click `download zip`):
 - 512life
 
 additionally, these two stretta applications support the 512 grid:
-- (straw)[https://github.com/monome-community/straw]
-- (plane)[https://github.com/monome-community/plane]
+- [straw](https://github.com/monome-community/straw)
+- [plane](https://github.com/monome-community/plane)
